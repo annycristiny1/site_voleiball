@@ -1,0 +1,23 @@
+body{
+    background-color:rgba(77, 0, 0, 0.979)
+    }
+    
+     h1{
+    color: rgb(0, 0, 0) ;
+    font-family: arial ;
+    background: ;
+    }
+    
+    p{
+    color:rgb(0, 0, 0);
+    font-family:arial ;
+    font-size:arial ;
+    background: ;
+    }
+    #pizzaria{
+        width: 100%;
+    }
+    .container{
+        width: 10%;
+        margin: 0 auto;
+    }
