@@ -12,13 +12,13 @@ body{
     p{
         color:rgb(0, 0, 0);
         font-family:arial ;
-        font-size:arial ;
+        font-size: ;
         background: ;
         }
 
     li{
         color:rgb(87, 173, 194);
         font-family:arial ;
-        font-size:arial ;
+        font: size 30px; 
         background: ;
         }
