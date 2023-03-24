@@ -11,14 +11,14 @@ body{
 
     p{
         color:rgb(0, 0, 0);
-        font-family:arial ;
+        font-family:Times 'Times New Roman', Times, serif ;
         font-size: 50px ;
         background:rgb(16, 43, 83) ;
         }
 
     li{
         color:rgb(87, 173, 194);
-        font-family:arial ;
+        font-family: Times 'Times New Roman', Times, serif;
         font-size: 30px; 
         background:rgb(16, 43, 83) ;
         }
