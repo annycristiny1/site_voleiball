@@ -5,7 +5,7 @@ body{
     h1{
         color: rgb(243, 243, 243) ;
         font-family:Times 'Times New Roman', Times, serif  ;
-        background: ;
+        background:rgb(16, 43, 83) ;
         }
 
 
@@ -13,13 +13,13 @@ body{
         color:rgb(0, 0, 0);
         font-family:arial ;
         font-size: 50px ;
-        background: ;
+        background:rgb(16, 43, 83) ;
         }
 
     li{
         color:rgb(87, 173, 194);
         font-family:arial ;
         font-size: 30px; 
-        background: ;
+        background:rgb(16, 43, 83) ;
         }
     
