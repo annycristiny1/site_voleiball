@@ -18,3 +18,7 @@ body{
     font-family:arial ;
     font-size:arial ;
     background: ;
+
+.cabecalho-lista-item{
+    display: inline-block;
+}
