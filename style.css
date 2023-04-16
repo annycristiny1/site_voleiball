@@ -1,7 +1,6 @@
-.cabecalho{
+.cabecalho-item{
     background-color: rgb(255, 255, 255);
     display: flex;
-    color: rgb(112, 141, 167);
     justify-content: space-around;
      
     }
