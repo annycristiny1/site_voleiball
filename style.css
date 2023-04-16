@@ -1,4 +1,4 @@
-.cabecalho-item{
+.cabecalho{
     background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
@@ -20,3 +20,4 @@ body{
     font-size:arial ;
     background: ;
 
+.cabecalio-item{}
