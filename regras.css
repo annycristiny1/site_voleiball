@@ -1,25 +1,18 @@
 body{
-    background-color:rgb(16, 43, 83)
+    background-color:rgba(16, 43, 83)
     }
     
-    h1{
-        color: rgb(243, 243, 243) ;
-        font-family:Times 'Times New Roman', Times, serif  ;
-        background:rgb(16, 43, 83) ;
-        }
-
-
+     h1{
+    color: rgb(255, 255, 255) ;
+    font-family:Times 'Times New Roman', Times, serif ;
+    font-size: 60px;
+    background:rgba(16, 43, 83) ;
+    }
+    
     p{
-        color:rgb(0, 0, 0);
-        font-family:Times 'Times New Roman', Times, serif ;
-        font-size: 60px ;
-        background:rgb(16, 43, 83) ;
-        }
-
-    li{
-        color:rgb(87, 173, 194);
-        font-family: Times 'Times New Roman', Times, serif;
-        font-size: 30px; 
-        background:rgb(16, 43, 83) ;
-        }
+    color:rgb(87, 173, 194);
+    font-family:arial ;
+    font-size: 30px;
+    background:rgba(16, 43, 83) ;
+    }
     
